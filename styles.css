@@ -1,1 +1,29 @@
-ne pas toucher
+div{
+
+	background-color: yellow;
+}
+
+a{
+	color: blue;
+
+}
+
+div{
+
+display: inline-block;
+}
+
+body{
+
+	background: black;
+}
+
+header{
+
+	background-color:blue ;
+}
+
+footer{
+
+	color: white;
+}
