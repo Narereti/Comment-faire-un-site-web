@@ -1,0 +1,1 @@
+Dans ce github il y aura les codes de la vidéo pour créer un site web il y a aussy plusieurs "branche" la on est en main mais vous pouvez le changer au niveau du bouton code mais a gauche cliquez dessus et vous verrez les épisode
